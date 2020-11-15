@@ -313,7 +313,6 @@ def Somi():
             tik()
         Somi()
         login()
-    else:
         print '[!] Fill In Correctly'
         action()
     print 47* '\033[1;94m━'
